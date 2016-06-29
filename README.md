@@ -2,6 +2,8 @@
 
 ![Stay Gnarly][gnarly-badge]
 
+A list of youtube links to favourite albums/songs. A lot more to come.
+
 * [Blues](#blues)
 * [Crust](#crust)
 * [Death](#death)
