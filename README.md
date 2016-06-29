@@ -2,16 +2,49 @@
 
 ![Stay Gnarly][gnarly-badge]
 
-## Metal
+* [Blues](#blues)
+* [Crust](#crust)
+* [Death](#death)
+* [Dirge](#dirge)
+* [Grind](#grind)
+* [Hardcore](#hardcore)
+* [Jazz](#jazz)
+* [Metal](#metal)
+* [Post](#post)
+* [Punk](#punk)
+* [Rock](#rock)
+* [Stoner](#stoner)
+* [Swedish](#swedish)
+* [Thrash](#thrash)
 
-* [Black Sabbath - Black Sabbath](https://www.youtube.com/watch?v=1Ogxs4_TyUE)
-* [Black Sabbath - Sabbath Bloody Sabbath](https://www.youtube.com/watch?v=lQ4IRzwi_Gg&list=PLaYW-muJF9BCMrWkSnq3ga8xkJa4g_wXa)
-* [Black Sabbath - Vol. 4](https://www.youtube.com/watch?v=AZkq5pd9WpQ&list=PL_2PKSNUnkjZzUrzvQ26GJjbg2poC6C0S)
-* [Dio - Dream Evil](https://www.youtube.com/watch?v=hkZyu6DsBPA&list=PL2Qt9TtwtjnxATYZaqs4yv2v4yTspY7R4)
-* [Dio - Holy Diver](https://www.youtube.com/watch?v=3p8ahQ2ckPA&list=PL4D117393935177AB)
-* [Judas Priest - Screaming For Vengeance](https://www.youtube.com/watch?v=C1DQbdg7DpA&list=PLPf69IGxwfBEYCzFwsiJ_EBE_6Cb7bysD)
-* [Ozzy Osbourne - Blizzard Of Ozz](https://www.youtube.com/watch?v=RMR5zf1J1Hs&list=PL2WOUQPE0WEC5ycIYgpafBRcEwTR_RQ_W)
-* [Ozzy Osbourne - Diary Of A Madman](https://www.youtube.com/watch?v=Ws3H0OOyJSA&list=PL98V0htatE-XP6wMZ1YlDRqBVXhdcfkp4)
+## Blues
+
+* [Buddy Guy and Junior Wells Play the Blues](https://www.youtube.com/watch?v=K-BD6JOKTWs)
+* [Junior Wells - Hoodoo Man Blues](https://www.youtube.com/watch?v=MfK2KwEmnAs&list=PL2ECCC48A0059C8E4)
+
+## Crust
+
+* [His Hero Is Gone - Fifteen Counts Of Arson](https://www.youtube.com/watch?v=346c4Dt1gmg)
+* [His Hero Is Gone - Monuments To Thieves](https://www.youtube.com/watch?v=YdGE8fFtmwc)
+* [Tragedy - Darker Days Ahead](https://www.youtube.com/watch?v=9RaxTDCr0aA)
+* [Tragedy - Nerve Damage](https://www.youtube.com/watch?v=RUfip07UA24)
+* [Tragedy - Tragedy](https://www.youtube.com/watch?v=S6dItd8gA50)
+
+## Death
+
+* [Black Breath - Heavy Breathing](https://www.youtube.com/watch?v=GKB3hrdBkYI)
+* [Black Breath - Sentenced To Life](https://www.youtube.com/watch?v=mGej0qn6CQo)
+* [Entombed - Morning Star](https://www.youtube.com/watch?v=eOd4HCAc_Vs)
+* [Entombed - Uprising](https://www.youtube.com/watch?v=3J7XRtBvM-w)
+
+## Dirge
+
+* [Cult Of Luna - Salvation](https://www.youtube.com/watch?v=K6QTtPO5tJA)
+* [Cult Of Luna - The Beyond](https://www.youtube.com/watch?v=j1Dcu6mhmpI)
+* [Isis - Oceanic](https://www.youtube.com/watch?v=mHtpU4aABPI)
+* [Isis - Panopticon](https://www.youtube.com/watch?v=xA2AJIiw0p8)
+* [Neurosis - A Sun That Never Sets](https://www.youtube.com/watch?v=Pycr-q0qCHw)
+* [Neurosis - Honor Found In Decay](https://www.youtube.com/watch?v=CzZcr2UnFs4)
 
 ## Grind
 
@@ -24,32 +57,52 @@
 * [Pig Destroyer - Book Burner](https://www.youtube.com/watch?v=-giucVpgpAI)
 * [Pig Destroyer - Terrifyer](https://www.youtube.com/watch?v=-Kqf6vtQmPQ)
 
-## Dirge
+## Hardcore
 
-* [Cult Of Luna - Salvation](https://www.youtube.com/watch?v=K6QTtPO5tJA)
-* [Cult Of Luna - The Beyond](https://www.youtube.com/watch?v=j1Dcu6mhmpI)
-* [Isis - Oceanic](https://www.youtube.com/watch?v=mHtpU4aABPI)
-* [Isis - Panopticon](https://www.youtube.com/watch?v=xA2AJIiw0p8)
-* [Neurosis - A Sun That Never Sets](https://www.youtube.com/watch?v=Pycr-q0qCHw)
-* [Neurosis - Honor Found In Decay](https://www.youtube.com/watch?v=CzZcr2UnFs4)
+* [Damnation A.D. - Misericordia](https://www.youtube.com/watch?v=gvJE528NXXQ)
+* [Damnation A.D. - No More Dreams of Happy Endings](https://www.youtube.com/watch?v=RxCyW1tW6t4)
 
-## Swedish
+## Jazz
 
-* [At the Gates - Slaughter of the Soul](https://www.youtube.com/watch?v=614OdhFLUUU)
-* [The Haunted - Made Me Do It](https://www.youtube.com/watch?v=bU1a9BLMXVI&list=PLyNkh-wQ2KB1U7Knel87fNUzWLfkYURjD)
-* [The Haunted - One Kill Wonder](https://www.youtube.com/watch?v=z9Qg2GzIZu4)
+* [Kenny Burrell - Midnight Blue](https://www.youtube.com/watch?v=mP0flneNfaQ&list=PLTIb4fKCEAetAz0neBCfEuldO-UBF_tvN)
 
-## Death
+## Metal
 
-* [Black Breath - Heavy Breathing](https://www.youtube.com/watch?v=GKB3hrdBkYI)
-* [Black Breath - Sentenced To Life](https://www.youtube.com/watch?v=mGej0qn6CQo)
-* [Entombed - Morning Star](https://www.youtube.com/watch?v=eOd4HCAc_Vs)
-* [Entombed - Uprising](https://www.youtube.com/watch?v=3J7XRtBvM-w)
+* [Black Sabbath - Black Sabbath](https://www.youtube.com/watch?v=1Ogxs4_TyUE)
+* [Black Sabbath - Sabbath Bloody Sabbath](https://www.youtube.com/watch?v=lQ4IRzwi_Gg&list=PLaYW-muJF9BCMrWkSnq3ga8xkJa4g_wXa)
+* [Black Sabbath - Vol. 4](https://www.youtube.com/watch?v=AZkq5pd9WpQ&list=PL_2PKSNUnkjZzUrzvQ26GJjbg2poC6C0S)
+* [Dio - Dream Evil](https://www.youtube.com/watch?v=hkZyu6DsBPA&list=PL2Qt9TtwtjnxATYZaqs4yv2v4yTspY7R4)
+* [Dio - Holy Diver](https://www.youtube.com/watch?v=3p8ahQ2ckPA&list=PL4D117393935177AB)
+* [Judas Priest - Screaming For Vengeance](https://www.youtube.com/watch?v=C1DQbdg7DpA&list=PLPf69IGxwfBEYCzFwsiJ_EBE_6Cb7bysD)
+* [Ozzy Osbourne - Blizzard Of Ozz](https://www.youtube.com/watch?v=RMR5zf1J1Hs&list=PL2WOUQPE0WEC5ycIYgpafBRcEwTR_RQ_W)
+* [Ozzy Osbourne - Diary Of A Madman](https://www.youtube.com/watch?v=Ws3H0OOyJSA&list=PL98V0htatE-XP6wMZ1YlDRqBVXhdcfkp4)
 
-## Thrash
+## Post
 
-* [Slayer - Reign In Blood](https://www.youtube.com/watch?v=yPGKlb8hklQ)
-* [Slayer - South Of Heaven](https://www.youtube.com/watch?v=NbGqPRFyHtg)
+* [Killing Joke - Hosannas From The Basement Of Hell](https://www.youtube.com/watch?v=7Vv249fTkN8)
+* [Killing Joke - Killing Joke](https://www.youtube.com/watch?v=_Y-a7T7S9eE&list=PLkebTFaAs0HHywURxtkN8azBvjBWa95Z-)
+
+## Punk
+
+* [Bad Brains - Bad Brains](https://www.youtube.com/watch?v=Ga5ZbMMZ6Hk)
+* [Born Against - The Rebel Sound Of Shit And Failure](https://www.youtube.com/watch?v=FMxvWn7P_v8)
+* [Dead Kennedys - Fresh Fruit For Rotting Vegetables](https://www.youtube.com/watch?v=U3VXiyS6zl0)
+* [Dead Kennedys - Give Me Convenience Or Give Me Death](https://www.youtube.com/watch?v=z_LcH4DUtuo)
+* [Dead Kennedys - Plastic Surgery Disasters](https://www.youtube.com/watch?v=y1bcjRzJiJg)
+* [Lard - The Last Temptation Of Reid](https://www.youtube.com/watch?v=HiQT5t7IiaQ)
+* [Lard - The Power Of Lard](https://www.youtube.com/watch?v=aG37MCTRSRI)
+
+## Rock
+
+* [Aerosmith - Aerosmith](https://www.youtube.com/watch?v=tZIKH3clKAA)
+* [Aerosmith - Get your Wings](https://www.youtube.com/watch?v=1LxX-OD9K34&list=PL03EC9AA60D38AB9F)
+* [Alice Cooper - Killer](https://www.youtube.com/watch?v=PDkG8l2P-nE&list=PLcRSGRtf6ehnohmSkEIlzHSiwMck1NRLf)
+* [Alice Cooper - Love It To Death](https://www.youtube.com/watch?v=sRFnnVMawpY&list=PLcRSGRtf6ehmIFW6KwUj6yuvIdrCPfavZ)
+* [Blue Oyster Cult - Blue Oyster Cult](https://www.youtube.com/watch?v=b0yNndiQMVk&list=PL_CGO22fjAZcykWiHL6bBGHdog087ljBo)
+* [Blue Oyster Cult - Secret Treaties](https://www.youtube.com/watch?v=HY3NQUoT89k&list=PLLEGRB7-5HunXBEQt6q9s5lfiR3GZ3WGC)
+* [Captain Beyond - Captain Beyond](https://www.youtube.com/watch?v=x2gJiBcWk2U)
+* [Free - Free](https://www.youtube.com/watch?v=kVnEEd03AbY)
+* [Free - Tons of Sobs](https://www.youtube.com/watch?v=LtEAB0XFvFA)
 
 ## Stoner
 
@@ -65,55 +118,17 @@
 * [Uncle acid and the Deadbeats - Mind Control](https://www.youtube.com/watch?v=R1cdW-ba8Yw)
 * [Witchcraft - Legend](https://www.youtube.com/watch?v=z3xSP0Ko1TA)
 
-## Post
+## Swedish
 
-* [Killing Joke - Hosannas From The Basement Of Hell](https://www.youtube.com/watch?v=7Vv249fTkN8)
-* [Killing Joke - Killing Joke](https://www.youtube.com/watch?v=_Y-a7T7S9eE&list=PLkebTFaAs0HHywURxtkN8azBvjBWa95Z-)
+* [At the Gates - Slaughter of the Soul](https://www.youtube.com/watch?v=614OdhFLUUU)
+* [The Haunted - Made Me Do It](https://www.youtube.com/watch?v=bU1a9BLMXVI&list=PLyNkh-wQ2KB1U7Knel87fNUzWLfkYURjD)
+* [The Haunted - One Kill Wonder](https://www.youtube.com/watch?v=z9Qg2GzIZu4)
 
-## Blues
+## Thrash
 
-* [Buddy Guy and Junior Wells Play the Blues](https://www.youtube.com/watch?v=K-BD6JOKTWs)
-* [Junior Wells - Hoodoo Man Blues](https://www.youtube.com/watch?v=MfK2KwEmnAs&list=PL2ECCC48A0059C8E4)
-
-## Rock
-
-* [Aerosmith - Aerosmith](https://www.youtube.com/watch?v=tZIKH3clKAA)
-* [Aerosmith - Get your Wings](https://www.youtube.com/watch?v=1LxX-OD9K34&list=PL03EC9AA60D38AB9F)
-* [Alice Cooper - Killer](https://www.youtube.com/watch?v=PDkG8l2P-nE&list=PLcRSGRtf6ehnohmSkEIlzHSiwMck1NRLf)
-* [Alice Cooper - Love It To Death](https://www.youtube.com/watch?v=sRFnnVMawpY&list=PLcRSGRtf6ehmIFW6KwUj6yuvIdrCPfavZ)
-* [Blue Oyster Cult - Blue Oyster Cult](https://www.youtube.com/watch?v=b0yNndiQMVk&list=PL_CGO22fjAZcykWiHL6bBGHdog087ljBo)
-* [Blue Oyster Cult - Secret Treaties](https://www.youtube.com/watch?v=HY3NQUoT89k&list=PLLEGRB7-5HunXBEQt6q9s5lfiR3GZ3WGC)
-* [Captain Beyond - Captain Beyond](https://www.youtube.com/watch?v=x2gJiBcWk2U)
-* [Free - Free](https://www.youtube.com/watch?v=kVnEEd03AbY)
-* [Free - Tons of Sobs](https://www.youtube.com/watch?v=LtEAB0XFvFA)
-
-## Jazz
-
-* [Kenny Burrell - Midnight Blue](https://www.youtube.com/watch?v=mP0flneNfaQ&list=PLTIb4fKCEAetAz0neBCfEuldO-UBF_tvN)
-
-## Punk
-
-* [Bad Brains - Bad Brains](https://www.youtube.com/watch?v=Ga5ZbMMZ6Hk)
-* [Born Against - The Rebel Sound Of Shit And Failure](https://www.youtube.com/watch?v=FMxvWn7P_v8)
-* [Dead Kennedys - Fresh Fruit For Rotting Vegetables](https://www.youtube.com/watch?v=U3VXiyS6zl0)
-* [Dead Kennedys - Give Me Convenience Or Give Me Death](https://www.youtube.com/watch?v=z_LcH4DUtuo)
-* [Dead Kennedys - Plastic Surgery Disasters](https://www.youtube.com/watch?v=y1bcjRzJiJg)
-* [Lard - The Last Temptation Of Reid](https://www.youtube.com/watch?v=HiQT5t7IiaQ)
-* [Lard - The Power Of Lard](https://www.youtube.com/watch?v=aG37MCTRSRI)
-
-## Hardcore
-
-* [Damnation A.D. - Misericordia](https://www.youtube.com/watch?v=gvJE528NXXQ)
-* [Damnation A.D. - No More Dreams of Happy Endings](https://www.youtube.com/watch?v=RxCyW1tW6t4)
-
-## Crust
-
-* [His Hero Is Gone - Fifteen Counts Of Arson](https://www.youtube.com/watch?v=346c4Dt1gmg)
-* [His Hero Is Gone - Monuments To Thieves](https://www.youtube.com/watch?v=YdGE8fFtmwc)
-* [Tragedy - Darker Days Ahead](https://www.youtube.com/watch?v=9RaxTDCr0aA)
-* [Tragedy - Nerve Damage](https://www.youtube.com/watch?v=RUfip07UA24)
-* [Tragedy - Tragedy](https://www.youtube.com/watch?v=S6dItd8gA50)
-
+* [Slayer - Reign In Blood](https://www.youtube.com/watch?v=yPGKlb8hklQ)
+* [Slayer - South Of Heaven](https://www.youtube.com/watch?v=NbGqPRFyHtg)
+* [Suicidal Tendencies - Suicidal Tendencies](https://www.youtube.com/watch?v=ZTlkpQJo_hs)
+* [Suicidal Tendencies - Join the Army](https://www.youtube.com/watch?v=V4HDSS7_qD4)
 
 [gnarly-badge]: https://img.shields.io/badge/Gnarly-100%25-blue.svg?style=flat-square
-
