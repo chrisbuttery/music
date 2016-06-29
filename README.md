@@ -7,7 +7,7 @@ A list of youtube links to favourite albums/songs. A lot more to come.
 * [Blues](#blues)
 * [Crust](#crust)
 * [Death](#death)
-* [Dirge/Post-hardcore](#dirge/post-hardcore)
+* [Dirge/Post-hardcore](#dirgepost-hardcore)
 * [Grind](#grind)
 * [Hardcore](#hardcore)
 * [Jazz](#jazz)
