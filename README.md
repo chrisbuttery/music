@@ -12,7 +12,7 @@ A list of youtube links to favourite albums/songs. A lot more to come.
 * [Hardcore](#hardcore)
 * [Jazz](#jazz)
 * [Metal](#metal)
-* [Post](#post)
+* [Post Punk](#post-punk)
 * [Punk](#punk)
 * [Rock](#rock)
 * [Stoner](#stoner)
@@ -79,7 +79,7 @@ A list of youtube links to favourite albums/songs. A lot more to come.
 * [Ozzy Osbourne - Blizzard Of Ozz](https://www.youtube.com/watch?v=RMR5zf1J1Hs&list=PL2WOUQPE0WEC5ycIYgpafBRcEwTR_RQ_W)
 * [Ozzy Osbourne - Diary Of A Madman](https://www.youtube.com/watch?v=Ws3H0OOyJSA&list=PL98V0htatE-XP6wMZ1YlDRqBVXhdcfkp4)
 
-## Post
+## Post Punk
 
 * [Killing Joke - Hosannas From The Basement Of Hell](https://www.youtube.com/watch?v=7Vv249fTkN8)
 * [Killing Joke - Killing Joke](https://www.youtube.com/watch?v=_Y-a7T7S9eE&list=PLkebTFaAs0HHywURxtkN8azBvjBWa95Z-)
