@@ -7,7 +7,7 @@ A list of youtube links to favourite albums/songs. A lot more to come.
 * [Blues](#blues)
 * [Crust](#crust)
 * [Death](#death)
-* [Dirge](#dirge)
+* [Dirge/Post-hardcore](#dirgepost-hardcore)
 * [Grind](#grind)
 * [Hardcore](#hardcore)
 * [Jazz](#jazz)
@@ -39,7 +39,7 @@ A list of youtube links to favourite albums/songs. A lot more to come.
 * [Entombed - Morning Star](https://www.youtube.com/watch?v=eOd4HCAc_Vs)
 * [Entombed - Uprising](https://www.youtube.com/watch?v=3J7XRtBvM-w)
 
-## Dirge
+## Dirge/Post-hardcore
 
 * [Cult Of Luna - Salvation](https://www.youtube.com/watch?v=K6QTtPO5tJA)
 * [Cult Of Luna - The Beyond](https://www.youtube.com/watch?v=j1Dcu6mhmpI)
