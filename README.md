@@ -1,5 +1,7 @@
 # music
 
+![Stay Gnarly][gnarly-badge]
+
 ## Metal
 
 * [Black Sabbath - Black Sabbath](https://www.youtube.com/watch?v=1Ogxs4_TyUE)
@@ -111,3 +113,7 @@
 * [Tragedy - Darker Days Ahead](https://www.youtube.com/watch?v=9RaxTDCr0aA)
 * [Tragedy - Nerve Damage](https://www.youtube.com/watch?v=RUfip07UA24)
 * [Tragedy - Tragedy](https://www.youtube.com/watch?v=S6dItd8gA50)
+
+
+[gnarly-badge]: https://img.shields.io/badge/Gnarly-100%25-blue.svg?style=flat-square
+
