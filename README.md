@@ -21,8 +21,11 @@ A list of youtube links to favourite albums/songs. A lot more to come.
 
 ## Blues
 
+* [Albert King - Blues Power](https://www.youtube.com/watch?v=ZjodmF8LezY)
+* [B.B. King - Live And Well](https://www.youtube.com/watch?v=C4YrnCj5n_w&list=PLWCJOLJ9si2l_J-2LF2_v38ZNYJ2mpniz)
 * [Buddy Guy and Junior Wells Play the Blues](https://www.youtube.com/watch?v=K-BD6JOKTWs)
 * [Junior Wells - Hoodoo Man Blues](https://www.youtube.com/watch?v=MfK2KwEmnAs&list=PL2ECCC48A0059C8E4)
+* [Muddy Waters - Electric Mud](https://www.youtube.com/watch?v=mYpwQsHb2_o)
 
 ## Crust
 
@@ -67,6 +70,7 @@ A list of youtube links to favourite albums/songs. A lot more to come.
 ## Jazz
 
 * [Kenny Burrell - Midnight Blue](https://www.youtube.com/watch?v=mP0flneNfaQ&list=PLTIb4fKCEAetAz0neBCfEuldO-UBF_tvN)
+* [The Poll Winners (feat: Barney Kessel)](https://www.youtube.com/watch?v=pBMpFRW0d90&list=PLB8007821601BB8BC)
 
 ## Metal
 
