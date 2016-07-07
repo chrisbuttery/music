@@ -71,6 +71,8 @@ A list of youtube links to favourite albums/songs. A lot more to come.
 
 * [Kenny Burrell - Midnight Blue](https://www.youtube.com/watch?v=mP0flneNfaQ&list=PLTIb4fKCEAetAz0neBCfEuldO-UBF_tvN)
 * [The Poll Winners (feat: Barney Kessel)](https://www.youtube.com/watch?v=pBMpFRW0d90&list=PLB8007821601BB8BC)
+* [Miles Davis - Kind of Blue](https://www.youtube.com/watch?v=kbxtYqA6ypM)
+* [Charles Mingus - Pithecanthropus Erectus](https://www.youtube.com/watch?v=F3Ltp6U1IJU)
 
 ## Metal
 
