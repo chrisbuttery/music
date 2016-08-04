@@ -4,6 +4,7 @@
 
 A list of youtube links to favourite albums/songs. A lot more to come.
 
+* [Acoustic](#acoustic)
 * [Blues](#blues)
 * [Crust](#crust)
 * [Death](#death)
@@ -18,6 +19,10 @@ A list of youtube links to favourite albums/songs. A lot more to come.
 * [Stoner](#stoner)
 * [Swedish](#swedish)
 * [Thrash](#thrash)
+
+## Acoustic
+
+* [King Buzzo - This Machine Kills Artists](https://www.youtube.com/watch?v=esA6bbd7xts)
 
 ## Blues
 
