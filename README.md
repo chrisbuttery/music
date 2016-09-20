@@ -16,6 +16,7 @@ A list of youtube links to favourite albums/songs. A lot more to come.
 * [Post Punk](#post-punk)
 * [Punk](#punk)
 * [Rock](#rock)
+* [Sludge](#sludge)
 * [Stoner](#stoner)
 * [Swedish](#swedish)
 * [Thrash](#thrash)
@@ -36,6 +37,7 @@ A list of youtube links to favourite albums/songs. A lot more to come.
 
 * [His Hero Is Gone - Fifteen Counts Of Arson](https://www.youtube.com/watch?v=346c4Dt1gmg)
 * [His Hero Is Gone - Monuments To Thieves](https://www.youtube.com/watch?v=YdGE8fFtmwc)
+* [Masakari - The Prophet Feeds](https://www.youtube.com/watch?v=DsoAHIhnmDw)
 * [Tragedy - Darker Days Ahead](https://www.youtube.com/watch?v=9RaxTDCr0aA)
 * [Tragedy - Nerve Damage](https://www.youtube.com/watch?v=RUfip07UA24)
 * [Tragedy - Tragedy](https://www.youtube.com/watch?v=S6dItd8gA50)
@@ -44,6 +46,11 @@ A list of youtube links to favourite albums/songs. A lot more to come.
 
 * [Black Breath - Heavy Breathing](https://www.youtube.com/watch?v=GKB3hrdBkYI)
 * [Black Breath - Sentenced To Life](https://www.youtube.com/watch?v=mGej0qn6CQo)
+* [Death - Symbolic](https://www.youtube.com/watch?v=7S4YaDnsXKE)
+* [Death - Leprosy](https://www.youtube.com/watch?v=5zQhJNsWBWY)
+* [Death Breath - Death Breath](https://www.youtube.com/watch?v=H3ARer2Mops)
+* [Entombed - Left Hand Path](https://www.youtube.com/watch?v=tsdWLtPAVqM)
+* [Entombed - Clandestine](https://www.youtube.com/watch?v=dv8NL5YEDGI)
 * [Entombed - Morning Star](https://www.youtube.com/watch?v=eOd4HCAc_Vs)
 * [Entombed - Uprising](https://www.youtube.com/watch?v=3J7XRtBvM-w)
 
@@ -60,12 +67,14 @@ A list of youtube links to favourite albums/songs. A lot more to come.
 
 * [Brutal Truth - Extreme Conditions Demand Extreme Responses](https://www.youtube.com/watch?v=xxBFgHo8aZw)
 * [Brutal Truth - Need To Control](https://www.youtube.com/watch?v=TpCZm980Zx8)
+* [Gadget - The Funeral March](https://www.youtube.com/watch?v=MoM1OoUqPpg&list=PLA7AEDCF03B5BEBBE)
 * [Napalm Death - Apex Predator](https://www.youtube.com/watch?v=eupXu8YGhKE)
 * [Napalm Death - Enemy Of The Music Business](https://www.youtube.com/watch?v=HreTsFvjITU)
 * [Napalm Death - Inside The Torn Apart](https://www.youtube.com/watch?v=CHWEDsIIMLQ)
 * [Phobia - Cruel](https://www.youtube.com/watch?v=e2-3IGSQ9B4)
 * [Pig Destroyer - Book Burner](https://www.youtube.com/watch?v=-giucVpgpAI)
 * [Pig Destroyer - Terrifyer](https://www.youtube.com/watch?v=-Kqf6vtQmPQ)
+* [Rotten Sound - Abuse to Suffer](https://www.youtube.com/watch?v=Vckat2tapIw&list=PLArAJlC1y55-M6d8S_SP4tpLuenDiUhmN)
 
 ## Hardcore
 
@@ -120,6 +129,14 @@ A list of youtube links to favourite albums/songs. A lot more to come.
 * [Captain Beyond - Captain Beyond](https://www.youtube.com/watch?v=x2gJiBcWk2U)
 * [Free - Free](https://www.youtube.com/watch?v=kVnEEd03AbY)
 * [Free - Tons of Sobs](https://www.youtube.com/watch?v=LtEAB0XFvFA)
+* [Montrose - Montrose](https://www.youtube.com/watch?v=A88-h_SzpNg)
+* [Mountain - Climbing](https://www.youtube.com/watch?v=aWwSzFdbqtQ)
+* [Nazareth - Hair Of The Dog](https://www.youtube.com/watch?v=ivE2YcCBXhM)
+
+## Sludge
+
+* [Unearthly Trance - Trident](https://www.youtube.com/watch?v=D2xM7bSc-GQ&list=PLTASNWgZPBKLDTem1gH-MC3JdIRaGZhmJ)
+* [Unearthly Trance - V](https://www.youtube.com/watch?v=1-3Ffmve64w&list=PL5pszgk4n-oXYEUuNX6vnK7B_PrLkWS1A)
 
 ## Stoner
 
@@ -131,6 +148,10 @@ A list of youtube links to favourite albums/songs. A lot more to come.
 * [Goatsnake- Trampled Under Hoof](https://www.youtube.com/watch?v=Zh4-JPaG-AM)
 * [Graveyard - Graveyard](https://www.youtube.com/watch?v=AvKy56jIf_Y&list=PL2Hq1B2VVLQgni9FvHUTJ14MYN6sPQR6A)
 * [Graveyard - Hisingen Blues](https://www.youtube.com/watch?v=WY5QYhOtROM&list=PLFCTtPP89RB22Q_J3_ln3LbdErSSexb2s)
+* [Orange Goblin - Time Travelling Blues](https://www.youtube.com/watch?v=ZNpDmKHAjeE)
+* [Orange Goblin - Frequencies From Planet Ten](https://www.youtube.com/watch?v=_e0-cPbGcQk)
+* [Orange Goblin - Thieving From the House of God](https://www.youtube.com/watch?v=-q9L7kMJ8bw)
+* [Sheavy - Celestial Hi-Fi](https://www.youtube.com/watch?v=K9CjhPse8rs)
 * [Uncle acid and the Deadbeats - Blood Lust](https://www.youtube.com/watch?v=Oxclr8mD7lE)
 * [Uncle acid and the Deadbeats - Mind Control](https://www.youtube.com/watch?v=R1cdW-ba8Yw)
 * [Witchcraft - Legend](https://www.youtube.com/watch?v=z3xSP0Ko1TA)
