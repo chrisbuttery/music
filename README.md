@@ -101,11 +101,11 @@ A list of youtube links to favourite albums/songs. A lot more to come.
 * [Dio - Dream Evil](https://www.youtube.com/watch?v=hkZyu6DsBPA&list=PL2Qt9TtwtjnxATYZaqs4yv2v4yTspY7R4)
 * [Dio - Holy Diver](https://www.youtube.com/watch?v=3p8ahQ2ckPA&list=PL4D117393935177AB)
 * [Judas Priest - Screaming For Vengeance](https://www.youtube.com/watch?v=C1DQbdg7DpA&list=PLPf69IGxwfBEYCzFwsiJ_EBE_6Cb7bysD)
-* [Ozzy Osbourne - Blizzard Of Ozz](https://www.youtube.com/watch?v=RMR5zf1J1Hs&list=PL2WOUQPE0WEC5ycIYgpafBRcEwTR_RQ_W)
-* [Ozzy Osbourne - Diary Of A Madman](https://www.youtube.com/watch?v=Ws3H0OOyJSA&list=PL98V0htatE-XP6wMZ1YlDRqBVXhdcfkp4)
 * [Melvins - A Senile Animal](https://www.youtube.com/watch?v=N_9VzG8I48E)
 * [Melvins - Nude With Boots](https://www.youtube.com/watch?v=iixERcOeggw&list=PLQqc8r9DInoBlt7h8GV-ELKMFwnxhuWdY)
 * [Melvins - Houdini](https://www.youtube.com/watch?v=aDurnlQu6Ak)
+* [Ozzy Osbourne - Blizzard Of Ozz](https://www.youtube.com/watch?v=RMR5zf1J1Hs&list=PL2WOUQPE0WEC5ycIYgpafBRcEwTR_RQ_W)
+* [Ozzy Osbourne - Diary Of A Madman](https://www.youtube.com/watch?v=Ws3H0OOyJSA&list=PL98V0htatE-XP6wMZ1YlDRqBVXhdcfkp4)
 
 ## Black Metal
 * [Craft - F**k The Universe](https://www.youtube.com/watch?v=MCuPnKpSk8E)
