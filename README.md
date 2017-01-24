@@ -6,6 +6,7 @@ A list of youtube links to favourite albums/songs. A lot more to come.
 
 * [Acoustic](#acoustic)
 * [Blues](#blues)
+* [Black](#black)
 * [Crust/Dbeat](#crustdbeat)
 * [Death](#death)
 * [Dirge/Post-hardcore](#dirgepost-hardcore)
@@ -24,6 +25,13 @@ A list of youtube links to favourite albums/songs. A lot more to come.
 ## Acoustic
 
 * [King Buzzo - This Machine Kills Artists](https://www.youtube.com/watch?v=esA6bbd7xts)
+
+## Black
+
+* [Craft - F**k The Universe](https://www.youtube.com/watch?v=MCuPnKpSk8E)
+* [Craft - Void](https://www.youtube.com/watch?v=cZYxj6jcc8U)
+* [Darkthrone - Transilvanian Hunger](https://www.youtube.com/watch?v=1Q3LeWKYyCQ)
+* [Darkthrone - Under A Funeral Moon](https://www.youtube.com/watch?v=esrwsEXj9nw)
 
 ## Blues
 
@@ -48,6 +56,8 @@ A list of youtube links to favourite albums/songs. A lot more to come.
 
 ## Death
 
+* [Autopsy - Mental Funeral](https://www.youtube.com/watch?v=_IpLYZkUrZA)
+* [Autopsy - Severed Survival](https://www.youtube.com/watch?v=1on9_JYgTLU)
 * [Black Breath - Heavy Breathing](https://www.youtube.com/watch?v=GKB3hrdBkYI)
 * [Black Breath - Sentenced To Life](https://www.youtube.com/watch?v=mGej0qn6CQo)
 * [Death - Symbolic](https://www.youtube.com/watch?v=7S4YaDnsXKE)
@@ -55,8 +65,6 @@ A list of youtube links to favourite albums/songs. A lot more to come.
 * [Death Breath - Death Breath](https://www.youtube.com/watch?v=H3ARer2Mops)
 * [Entombed - Left Hand Path](https://www.youtube.com/watch?v=tsdWLtPAVqM)
 * [Entombed - Clandestine](https://www.youtube.com/watch?v=dv8NL5YEDGI)
-* [Entombed - Morning Star](https://www.youtube.com/watch?v=eOd4HCAc_Vs)
-* [Entombed - Uprising](https://www.youtube.com/watch?v=3J7XRtBvM-w)
 
 ## Dirge/Post-hardcore
 
@@ -106,16 +114,6 @@ A list of youtube links to favourite albums/songs. A lot more to come.
 * [Melvins - Houdini](https://www.youtube.com/watch?v=aDurnlQu6Ak)
 * [Ozzy Osbourne - Blizzard Of Ozz](https://www.youtube.com/watch?v=RMR5zf1J1Hs&list=PL2WOUQPE0WEC5ycIYgpafBRcEwTR_RQ_W)
 * [Ozzy Osbourne - Diary Of A Madman](https://www.youtube.com/watch?v=Ws3H0OOyJSA&list=PL98V0htatE-XP6wMZ1YlDRqBVXhdcfkp4)
-
-## Black Metal
-* [Craft - F**k The Universe](https://www.youtube.com/watch?v=MCuPnKpSk8E)
-* [Craft - Void](https://www.youtube.com/watch?v=cZYxj6jcc8U)
-* [Darkthrone - Transilvanian Hunger](https://www.youtube.com/watch?v=1Q3LeWKYyCQ)
-* [Darkthrone - Under A Funeral Moon](https://www.youtube.com/watch?v=esrwsEXj9nw)
-
-## Death Metal
-* [Autopsy - Mental Funeral](https://www.youtube.com/watch?v=_IpLYZkUrZA)
-* [Autopsy - Severed Survival](https://www.youtube.com/watch?v=1on9_JYgTLU)
 
 ## Post Punk
 
@@ -175,6 +173,8 @@ A list of youtube links to favourite albums/songs. A lot more to come.
 * [At the Gates - Slaughter of the Soul](https://www.youtube.com/watch?v=614OdhFLUUU)
 * [The Haunted - Made Me Do It](https://www.youtube.com/watch?v=bU1a9BLMXVI&list=PLyNkh-wQ2KB1U7Knel87fNUzWLfkYURjD)
 * [The Haunted - One Kill Wonder](https://www.youtube.com/watch?v=z9Qg2GzIZu4)
+* [Entombed - Morning Star](https://www.youtube.com/watch?v=eOd4HCAc_Vs)
+* [Entombed - Uprising](https://www.youtube.com/watch?v=3J7XRtBvM-w)
 
 ## Thrash
 
