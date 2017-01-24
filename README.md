@@ -6,7 +6,7 @@ A list of youtube links to favourite albums/songs. A lot more to come.
 
 * [Acoustic](#acoustic)
 * [Blues](#blues)
-* [Crust](#crust)
+* [Crust/Dbeat](#crustdbeat)
 * [Death](#death)
 * [Dirge/Post-hardcore](#dirgepost-hardcore)
 * [Grind](#grind)
@@ -33,8 +33,9 @@ A list of youtube links to favourite albums/songs. A lot more to come.
 * [Junior Wells - Hoodoo Man Blues](https://www.youtube.com/watch?v=MfK2KwEmnAs&list=PL2ECCC48A0059C8E4)
 * [Muddy Waters - Electric Mud](https://www.youtube.com/watch?v=mYpwQsHb2_o)
 
-## Crust
+## Crust/Dbeat
 
+* [Disfear - Live The Storm](https://www.youtube.com/playlist?list=PLz9XEOnY8yY0Wcb13QblEt-qcYqo1tHk_)
 * [His Hero Is Gone - Fifteen Counts Of Arson](https://www.youtube.com/watch?v=346c4Dt1gmg)
 * [His Hero Is Gone - Monuments To Thieves](https://www.youtube.com/watch?v=YdGE8fFtmwc)
 * [Martyrdöd - List](https://www.youtube.com/watch?v=xYd9h1aRJ_E)
@@ -43,6 +44,7 @@ A list of youtube links to favourite albums/songs. A lot more to come.
 * [Tragedy - Darker Days Ahead](https://www.youtube.com/watch?v=9RaxTDCr0aA)
 * [Tragedy - Nerve Damage](https://www.youtube.com/watch?v=RUfip07UA24)
 * [Tragedy - Tragedy](https://www.youtube.com/watch?v=S6dItd8gA50)
+* [Wolfbrigade - Damned](https://www.youtube.com/watch?v=9aJBU9sb1KM)
 
 ## Death
 
