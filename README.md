@@ -37,6 +37,8 @@ A list of youtube links to favourite albums/songs. A lot more to come.
 
 * [His Hero Is Gone - Fifteen Counts Of Arson](https://www.youtube.com/watch?v=346c4Dt1gmg)
 * [His Hero Is Gone - Monuments To Thieves](https://www.youtube.com/watch?v=YdGE8fFtmwc)
+* [Martyrdöd - List](https://www.youtube.com/watch?v=xYd9h1aRJ_E)
+* [Martyrdöd - Elddop](https://www.youtube.com/watch?v=OFTW0vC-tsw)
 * [Masakari - The Prophet Feeds](https://www.youtube.com/watch?v=DsoAHIhnmDw)
 * [Tragedy - Darker Days Ahead](https://www.youtube.com/watch?v=9RaxTDCr0aA)
 * [Tragedy - Nerve Damage](https://www.youtube.com/watch?v=RUfip07UA24)
@@ -102,6 +104,16 @@ A list of youtube links to favourite albums/songs. A lot more to come.
 * [Melvins - A Senile Animal](https://www.youtube.com/watch?v=N_9VzG8I48E)
 * [Melvins - Nude With Boots](https://www.youtube.com/watch?v=iixERcOeggw&list=PLQqc8r9DInoBlt7h8GV-ELKMFwnxhuWdY)
 * [Melvins - Houdini](https://www.youtube.com/watch?v=aDurnlQu6Ak)
+
+## Black Metal
+* [Craft - F**k The Universe](https://www.youtube.com/watch?v=MCuPnKpSk8E)
+* [Craft - Void](https://www.youtube.com/watch?v=cZYxj6jcc8U)
+* [Darkthrone - Transilvanian Hunger](https://www.youtube.com/watch?v=1Q3LeWKYyCQ)
+* [Darkthrone - Under A Funeral Moon](https://www.youtube.com/watch?v=esrwsEXj9nw)
+
+## Death Metal
+* [Autopsy - Mental Funeral](https://www.youtube.com/watch?v=_IpLYZkUrZA)
+* [Autopsy - Severed Survival](https://www.youtube.com/watch?v=1on9_JYgTLU)
 
 ## Post Punk
 
